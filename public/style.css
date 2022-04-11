@@ -17,6 +17,9 @@ body{background-color: rgb(77, 175, 240);}
     background-color: rgb(7, 9, 126);
     color: rgb(243, 215, 123);
     padding: 20px;
+    width: 60%;
+    margin: 0 auto;
+    border: 1px solid white;
 }
 
 .tabla{
@@ -29,3 +32,12 @@ body{background-color: rgb(77, 175, 240);}
 .tabla th{
     color: rgb(243, 215, 123);
 }
+
+.form{
+    background-color:aquamarine;
+    width: 60%;
+    padding: 15px;
+    margin: 5vh auto;
+    border: 1px solid rgb(0, 0, 0);
+}
+
