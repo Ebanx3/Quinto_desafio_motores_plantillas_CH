@@ -1,0 +1,31 @@
+*{text-align: center;}
+
+body{background-color: rgb(77, 175, 240);}
+
+.lineasForm{
+    margin: 3vh auto;
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.historial{
+    display: block;
+}
+
+.contenedor{
+    background-color: rgb(7, 9, 126);
+    color: rgb(243, 215, 123);
+    padding: 20px;
+}
+
+.tabla{
+    margin: 0 auto;
+    color: white;
+    border: 1px solid;
+    border-spacing: 15px 10px;
+}
+
+.tabla th{
+    color: rgb(243, 215, 123);
+}
